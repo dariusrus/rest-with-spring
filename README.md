@@ -1,1 +1,1 @@
-# rest-with-spring
+# Sample RESTfull Services created using Spring Framework
